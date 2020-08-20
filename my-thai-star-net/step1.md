@@ -22,6 +22,7 @@ Because this terminal runs the server you can't use ist anymore.
 `cd my-thai-star/net/netcore/OASP4Net.Application.WebApi`{{execute}}
 
 `wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb`{{execute}}
+
 `sudo dpkg -i packages-microsoft-prod.deb`{{execute}}
 
 `sudo apt-get update; \
