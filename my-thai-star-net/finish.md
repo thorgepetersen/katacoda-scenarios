@@ -1,6 +1,6 @@
 Congratulations! 
 
-You finished the My Thai Star - Java Tutorial.
+You finished the My Thai Star - DotNet Tutorial.
 
 For further informations please visit the documentation: 
 
