@@ -32,7 +32,7 @@ Because this terminal runs the server you can't use ist anymore.
 `sudo apt-get update; \
   sudo apt-get install -y apt-transport-https && \
   sudo apt-get update && \
-  sudo apt-get install -y aspnetcore-runtime-3.1`{{execute}} 
+  sudo apt-get install -y aspnetcore-runtime-2.1`{{execute}} 
   
   `dotnet build`{{execute}}
   
