@@ -2,7 +2,7 @@ In this scenario you will use "My Thai Star" for the first time.
 
 The first step is to start the server. 
 
-In the second step you will build and use the app.
+In the second step you will build and use the app. 
 
 
 
